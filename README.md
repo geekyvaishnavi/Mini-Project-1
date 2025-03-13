@@ -1,1 +1,1 @@
-# Mini-Project-1
+# Amazon Clone using HTML and CSS
